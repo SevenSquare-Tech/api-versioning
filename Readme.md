@@ -10,6 +10,8 @@ Express API Versioning is an Express.js middleware that dynamically loads
 different API versions based on the version number specified in the request URL.
 It helps maintain multiple API versions cleanly without breaking existing clients.
 
+[Full Guide to Build an API Versioning & Deprecation Manager in NodeJs.](https://www.sevensquaretech.com/nodejs-api-versioning-deprecation-manager-with-github-code/)
+
 ## Features
 
 - Supports URL-based API versioning (e.g., /v1/users, /v2/users)
